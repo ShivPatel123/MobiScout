@@ -7,11 +7,8 @@ MobiScout is an iOS mobile application designed to monitor and analyze driving b
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
 - [Current Progress](#current-progress)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
